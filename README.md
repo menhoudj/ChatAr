@@ -8,3 +8,4 @@ ChatAr هي واجهة دردشة بسيطة باللغة العربية تتي�
 ```bash
 git clone https://github.com/YOUR_USERNAME/ChatAr.git
 cd ChatAr
+install.sh
